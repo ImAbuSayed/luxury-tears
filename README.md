@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luxury-tears/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Luxury Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luxury-tears/) |
+| **Get License** | [Commercial Licensing for Luxury Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luxury-tears/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mainu takdi ae tu, akhiyan de vich nasha
+> Tere husn da jadoo, karda ae mainu fida
+> Raat di haneri vich, lishkarda tera roop
+> Tere piche pagal haan, bhul gaya duniya di dhoop
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
